@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Verified compatibility with latest runtime version
 - Updated CI cache strategy
+
+## 2026-04-29
+- Added inline documentation for core functions
+- Added basic usage examples to README
